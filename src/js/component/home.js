@@ -1,5 +1,5 @@
 import React from "react";
-import {TrainingDays} from "./TrainingDays"
+import { TrainingDays } from "./TrainingDays";
 
 //include images into your bundle
 import rigoImage from "../../img/rigo-baby.jpg";
